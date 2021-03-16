@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  background-image: url(../hokkaidou/top.jpg);
+  background-image: url(../top.jpg);
   /* background-position: center; */
   background-size: cover;
   height: 800px;
@@ -232,7 +232,7 @@ ul {
 
 
 .entry {
-  background-image: url(../hokkaidou/kokuban1.jpg);
+  background-image: url(../kokuban1.jpg);
   background-size: cover;
   height: 700px;
 }
@@ -423,7 +423,7 @@ footer {
   
   
   .entry {
-    background-image: url(../hokkaidou/kokuban1.jpg);
+    background-image: url(../kokuban1.jpg);
     background-size: cover;
     height: 700px;
   }
